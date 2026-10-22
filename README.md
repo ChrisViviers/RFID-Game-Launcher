@@ -4,7 +4,7 @@ Drop a cartridge into the slot and its game starts. Take out a music cartridge a
 
 Built by [PiShop](https://www.pishop.co.za) for the rAge 2026 expo. It follows on from our earlier project, [From Card To Console: an RFID-Powered Game Launcher](https://blog.pishop.co.za/from-card-to-console-an-rfid-powered-game-launcher/).
 
-![The visitor screen with a game cartridge lifted out of the shelf](docs/visitor-screen.png)
+![The visitor screen with a game cartridge lifted out of the shelf](visitor-screen.png)
 
 ## How it works
 
