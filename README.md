@@ -85,7 +85,7 @@ It prints two addresses:
 - **http://localhost:8765/manage** sets up cartridges. Scan a new sticker and a form opens for it: name, game or music, cover image, colour. Paste a Steam store link and it fills in the app ID and name.
 - **http://localhost:8765** is the visitor screen. Open it on a second monitor and press F11.
 
-![The cartridge setup page](docs/setup-page.png)
+![The cartridge setup page](setup-page.png)
 
 ## Settings
 
