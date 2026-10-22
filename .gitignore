@@ -1,0 +1,8 @@
+# Your own cartridge setup: paths on your PC and your cover images
+launcher/tags.json
+launcher/tags.tmp
+launcher/images/
+
+# Python
+__pycache__/
+*.pyc
